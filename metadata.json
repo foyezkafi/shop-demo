@@ -1,0 +1,6 @@
+{
+  "name": "Ideal Bigshop",
+  "description": "Modern & Premium E-commerce Store for Gardening, Plant Stands, Kitchenware & Home Decor in Bangladesh with Fast WhatsApp Ordering & Online Payment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

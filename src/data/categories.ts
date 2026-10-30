@@ -1,0 +1,60 @@
+import { Category } from '../types';
+
+export const CATEGORIES: Category[] = [
+  {
+    id: 'all',
+    nameBn: 'সকল পণ্য',
+    nameEn: 'All Products',
+    slug: 'all',
+    count: 16,
+    image: '/src/assets/images/hero_bigshop_showcase_1793360871474.jpg',
+  },
+  {
+    id: 'plant-stand',
+    nameBn: 'প্ল্যান্ট স্ট্যান্ড',
+    nameEn: 'Plant Stand',
+    slug: 'plant-stand',
+    count: 5,
+    image: '/src/assets/images/product_wheel_stand_1793360871773.jpg',
+  },
+  {
+    id: 'flower-stand',
+    nameBn: 'ফ্লাওয়ার স্ট্যান্ড',
+    nameEn: 'Flower Stand',
+    slug: 'flower-stand',
+    count: 3,
+    image: '/src/assets/images/product_tiered_flower_stand_1793360873619.jpg',
+  },
+  {
+    id: 'kitchen',
+    nameBn: 'কিচেন আইটেম',
+    nameEn: 'Kitchen Items',
+    slug: 'kitchen',
+    count: 6,
+    image: '/src/assets/images/product_cookware_set_1793360872594.jpg',
+  },
+  {
+    id: 'gardening',
+    nameBn: 'টব ও গার্ডেনিং',
+    nameEn: 'Pots & Gardening',
+    slug: 'gardening',
+    count: 3,
+    image: '/src/assets/images/product_wheel_stand_1793360871773.jpg',
+  },
+  {
+    id: 'home-decor',
+    nameBn: 'হোম ডেকোরেশন',
+    nameEn: 'Home Decoration',
+    slug: 'home-decor',
+    count: 3,
+    image: '/src/assets/images/product_tiered_flower_stand_1793360873619.jpg',
+  },
+  {
+    id: 'others',
+    nameBn: 'অন্যান্য পণ্য',
+    nameEn: 'Other Accessories',
+    slug: 'others',
+    count: 1,
+    image: '/src/assets/images/product_spice_rack_1793360873423.jpg',
+  },
+];
